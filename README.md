@@ -33,5 +33,14 @@ Inheritance and Constructor Overloading: Subclasses (e.g., PostgraduateStudent, 
 This and Super Usage: Each program defines classes (e.g. Bank Account , Book, Employee etc) solving real world problems using real world entities.
 Display Details : Displaying details of the user using instanceof for checking if it's the instance of the class.
 
+04/02/2025 Today's Summary:
+
+Object Oriented Design Principles : Advanded oops real world problems : a- LibraryProgram1 b - BankProgram2 c- CompanyProgram3 d- SchoolProgram4 e- UniversityProgram5 f- HospitalProgram6 g- CustomerProgram7 h-ManagementProgram8    
+Learned about making logics and programs that will be benificial in real world and tackle real world problems
+Class Diagram
+Object Diagram
+Sequence Diagram
+Relationship- Aggregation, Composition and Association
+Problem Statement: a. UML Diagrams-School Results Application and Grocery Store Bill Generation Application b. Object Modeling: Library and Books (Aggregation), Bank and Account Holders (Association), Company and Departments (Composition), School and Students with Courses (Association and Aggregation), University with Faculties and Departments (Composition and Aggregation), Hospital, Doctors, and Patients (Association and Communication), E-commerce Platform with Orders, Customers, and Products, University Management System
 
 
