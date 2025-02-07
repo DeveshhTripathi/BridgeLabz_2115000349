@@ -44,3 +44,11 @@ Relationship- Aggregation, Composition and Association
 Problem Statement: a. UML Diagrams-School Results Application and Grocery Store Bill Generation Application b. Object Modeling: Library and Books (Aggregation), Bank and Account Holders (Association), Company and Departments (Composition), School and Students with Courses (Association and Aggregation), University with Faculties and Departments (Composition and Aggregation), Hospital, Doctors, and Patients (Association and Communication), E-commerce Platform with Orders, Customers, and Products, University Management System
 
 
+06/02/2025 Today's Summary
+Inheritance in java : Got learnings about inheritance, how can we extend and implement in classes from parents class to child class and from interface to a class respectively. Also resolved different real world problems using different ways such as : 
+Single Level Inheritance
+ Multilevel Inheritance
+ Hierarchical Inheritance
+Some Real World Problems are as follows : (AnimalInheritance1 EmployeeInheritance2 TransportInheritance3 BookInheritance4 SmartDevicesInheritance5 OrderManagementInheritance6 EducationalInheritance7 BankInheritance8 SchoolSystemInheritance9 RestaurantInheritance10 VehicleManagementInheritance11)
+
+
