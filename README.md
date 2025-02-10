@@ -1,3 +1,5 @@
+Devesh Tripathi - 2115000349(80)  ---> README File for daily update about learnings and problems solved                                      
+
 21/01/2025 Today's Summary;
 
 Basic Arithmatic Questions: Includes different question where different mathematical operations are performed and got learning about different operators.
@@ -45,10 +47,17 @@ Problem Statement: a. UML Diagrams-School Results Application and Grocery Store 
 
 
 06/02/2025 Today's Summary
+
 Inheritance in java : Got learnings about inheritance, how can we extend and implement in classes from parents class to child class and from interface to a class respectively. Also resolved different real world problems using different ways such as : 
 Single Level Inheritance
  Multilevel Inheritance
  Hierarchical Inheritance
 Some Real World Problems are as follows : (AnimalInheritance1 EmployeeInheritance2 TransportInheritance3 BookInheritance4 SmartDevicesInheritance5 OrderManagementInheritance6 EducationalInheritance7 BankInheritance8 SchoolSystemInheritance9 RestaurantInheritance10 VehicleManagementInheritance11)
+
+08/02/2025 Todays's Summary 
+
+Abstraction : Got learnings about different ways of abstraction in java via Abstract Keyword and Interfaces.
+Encapsulation : Used private access modifiers for class fields to restrict direct access, used public getter and setter methods to access and modify private fields.
+And using all other concepts  of java and object oriented programing solved peoblems like : (EmployeeAbstraction1 ECommerceAbstraction2 VehicleRentalAbstraction3 BankingSystemAbstraction4 LibraryManagementAbstraction5 OnlineFoodAbstraction6 HospitalManagementAbstraction7 RideHailingAbstraction8) 
 
 
