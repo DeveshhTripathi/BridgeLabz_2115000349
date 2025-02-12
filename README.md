@@ -54,10 +54,17 @@ Single Level Inheritance
  Hierarchical Inheritance
 Some Real World Problems are as follows : (AnimalInheritance1 EmployeeInheritance2 TransportInheritance3 BookInheritance4 SmartDevicesInheritance5 OrderManagementInheritance6 EducationalInheritance7 BankInheritance8 SchoolSystemInheritance9 RestaurantInheritance10 VehicleManagementInheritance11)
 
-08/02/2025 Todays's Summary 
+08/02/2025 Today's Summary 
 
 Abstraction : Got learnings about different ways of abstraction in java via Abstract Keyword and Interfaces.
 Encapsulation : Used private access modifiers for class fields to restrict direct access, used public getter and setter methods to access and modify private fields.
 And using all other concepts  of java and object oriented programing solved peoblems like : (EmployeeAbstraction1 ECommerceAbstraction2 VehicleRentalAbstraction3 BankingSystemAbstraction4 LibraryManagementAbstraction5 OnlineFoodAbstraction6 HospitalManagementAbstraction7 RideHailingAbstraction8) 
 
+10/02/2025 Today's Summary
 
+Linked List : Got learnings about linked list it's properties, advantages ,disadvantages through the documentation provided.
+Types of Linked List:
+-Singly Linked List
+-Doubly Linked List
+-Circular Linked List
+Solved real world problems using linked list : Problems like-->( StudentRecordLL1, MovieManagementLL2 ,TaskSchedulerLL3, InventoryManagementLL4, LibraryManagementLL5, RoundRobinLL6, SocialMediaFriendLL7, UndoRedoLL8, OnlineTicketReservationLL9).
