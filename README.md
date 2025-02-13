@@ -68,3 +68,10 @@ Types of Linked List:
 -Doubly Linked List
 -Circular Linked List
 Solved real world problems using linked list : Problems like-->( StudentRecordLL1, MovieManagementLL2 ,TaskSchedulerLL3, InventoryManagementLL4, LibraryManagementLL5, RoundRobinLL6, SocialMediaFriendLL7, UndoRedoLL8, OnlineTicketReservationLL9).
+
+12/02/2025 Today's Summary 
+
+Stack : Got learning about stack and different ways to inpliment it using array, linked list , queue etc.
+Queue : Got learning about queue and different ways to inpliment it using array, linked list , stack etc.
+HashMap : Learnt to implement Hashmap and got knowledge about Hashing.
+Solved Question on all these topics : ( QueueUsingStack, SortStack, StockSpan, SlidingWindow, CircularTour, ZeroSumSubArray, PairSum, LongestSequence, CustomHashmap1, TwoSum )
