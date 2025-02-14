@@ -75,3 +75,8 @@ Stack : Got learning about stack and different ways to inpliment it using array,
 Queue : Got learning about queue and different ways to inpliment it using array, linked list , stack etc.
 HashMap : Learnt to implement Hashmap and got knowledge about Hashing.
 Solved Question on all these topics : ( QueueUsingStack, SortStack, StockSpan, SlidingWindow, CircularTour, ZeroSumSubArray, PairSum, LongestSequence, CustomHashmap1, TwoSum )
+
+13/02/2025 Today's Summary
+
+Sorting Algorithms : Got learning about different sorting algorithms and used them in real world problems such as : ( StudentMarksBubble EmployeeIdInsertion BookPriceMerge ProductPriceQuick ExamScoreSelection JobApplicationHeap StudentAgesCounting ).
+Used Algorithms are :- Bubble Sort , Insertion Sort, Merge Sort , Quick Sort , Selection Sort , Heap Sort , Counting Sort.
