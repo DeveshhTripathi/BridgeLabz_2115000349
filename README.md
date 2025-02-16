@@ -80,3 +80,11 @@ Solved Question on all these topics : ( QueueUsingStack, SortStack, StockSpan, S
 
 Sorting Algorithms : Got learning about different sorting algorithms and used them in real world problems such as : ( StudentMarksBubble EmployeeIdInsertion BookPriceMerge ProductPriceQuick ExamScoreSelection JobApplicationHeap StudentAgesCounting ).
 Used Algorithms are :- Bubble Sort , Insertion Sort, Merge Sort , Quick Sort , Selection Sort , Heap Sort , Counting Sort.
+
+14/02/2025 Today's Summary 
+Got learnings about diffrent mutable classes which can be used to do operation on string objects such as reverse of string, concating string and etc.
+String Builder
+String Buffer
+Also, learnt about  FileReader :  read character files (text files) efficiently. and InputStreamReader :  convert byte streams into character streams (e.g., reading from non-text files or working with encodings).
+And , Different searching techniques like Linear Search and Binary Search.
+Solved questions like ( ReverseStringUsingSB RemoveDuplicateSB ConcatenateStringsSB CompareSB ReadFile1 ReadFile2 InputStreamReader1 InputStreamReader2 CompareSB2 FirstNegativeLinear FindWordLinear RotationPointBinary FindPeakBinary Search2DBinary FirstAndLastBinary ChallengeSearching ).
