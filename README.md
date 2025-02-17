@@ -88,3 +88,7 @@ String Buffer
 Also, learnt about  FileReader :  read character files (text files) efficiently. and InputStreamReader :  convert byte streams into character streams (e.g., reading from non-text files or working with encodings).
 And , Different searching techniques like Linear Search and Binary Search.
 Solved questions like ( ReverseStringUsingSB RemoveDuplicateSB ConcatenateStringsSB CompareSB ReadFile1 ReadFile2 InputStreamReader1 InputStreamReader2 CompareSB2 FirstNegativeLinear FindWordLinear RotationPointBinary FindPeakBinary Search2DBinary FirstAndLastBinary ChallengeSearching ).
+
+15/02/2025 Today's Summary
+Got learnigs about Time and space Complexity Optimization and got to know where we should use which data structure and also what approach should be taken to reduce the Time and space Complexity as much as possible.
+Solved problems like : (  CompareDataStructures FabonacciComparison FileAndStreamCompare StringConcatenation CompareSorting ComparisionSearching ).
