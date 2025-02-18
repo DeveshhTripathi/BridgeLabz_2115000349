@@ -82,6 +82,7 @@ Sorting Algorithms : Got learning about different sorting algorithms and used th
 Used Algorithms are :- Bubble Sort , Insertion Sort, Merge Sort , Quick Sort , Selection Sort , Heap Sort , Counting Sort.
 
 14/02/2025 Today's Summary 
+
 Got learnings about diffrent mutable classes which can be used to do operation on string objects such as reverse of string, concating string and etc.
 String Builder
 String Buffer
@@ -90,5 +91,12 @@ And , Different searching techniques like Linear Search and Binary Search.
 Solved questions like ( ReverseStringUsingSB RemoveDuplicateSB ConcatenateStringsSB CompareSB ReadFile1 ReadFile2 InputStreamReader1 InputStreamReader2 CompareSB2 FirstNegativeLinear FindWordLinear RotationPointBinary FindPeakBinary Search2DBinary FirstAndLastBinary ChallengeSearching ).
 
 15/02/2025 Today's Summary
+
 Got learnigs about Time and space Complexity Optimization and got to know where we should use which data structure and also what approach should be taken to reduce the Time and space Complexity as much as possible.
 Solved problems like : (  CompareDataStructures FabonacciComparison FileAndStreamCompare StringConcatenation CompareSorting ComparisionSearching ).
+
+17/02/2025 Today's Summary
+
+Got learning about Generics in java : Generics allow developers to create type-safe, reusable, and flexible code by introducing parameterized types. Instead of using raw types (like Object), generics enable compile-time type checking and eliminate the need for explicit type casting.
+It has Generic classes , methods and Wildcards.
+Solved questions like : (SmartWareHouseManagement, OnlineMarketplace, CourseManagement, MealPlanGenerator, ResumeScreeningSystem).
