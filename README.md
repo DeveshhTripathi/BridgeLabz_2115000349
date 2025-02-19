@@ -99,4 +99,13 @@ Solved problems like : (  CompareDataStructures FabonacciComparison FileAndStrea
 
 Got learning about Generics in java : Generics allow developers to create type-safe, reusable, and flexible code by introducing parameterized types. Instead of using raw types (like Object), generics enable compile-time type checking and eliminate the need for explicit type casting.
 It has Generic classes , methods and Wildcards.
+
 Solved questions like : (SmartWareHouseManagement, OnlineMarketplace, CourseManagement, MealPlanGenerator, ResumeScreeningSystem).
+
+
+18/02/2025 Today's Summary
+
+Got learnings about different types of collection framework that are pre-defined in java such as ArrayList, LinkedList , Stack , HashSet , HashMap etc.
+
+Also solved logical and real world problems using these : (  ReverseList ElementFrequency RotateElementsByPosition RemoveDuplicatePreservingOrder NthElement CompareSets UnionInterSectionInSets SymmetricDifference SetToList SubsetCheck InsurancePolicyManagement ReverseQueue BinaryNumberQueue HospitalTriage StackUsingQueue CircularBuffer WordCounter InvertMap MaxValueKey MergeMaps GroupEmployee InsurencePolicyManagement2 VotingSystem ShoppingCart BankingSystem ).
+
