@@ -111,6 +111,8 @@ Also solved logical and real world problems using these : (  ReverseList Element
 
 19/02/2025 Today's Summary 
 
+Got learnings about io package of java learnt about taking input using File reader Input Stream reader etc.
+Also, solved problems like : (  PipedStream FileReadWrite CopyFile2 InputFromConsole EmployeeSerialization ImageToByteArray UpperToLowerCase PrimitiveDataRetrive LargeFileReader WordCount ).
 
 20/02/2025 Today's Summary 
 
