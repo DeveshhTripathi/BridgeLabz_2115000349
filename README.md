@@ -109,3 +109,11 @@ Got learnings about different types of collection framework that are pre-defined
 
 Also solved logical and real world problems using these : (  ReverseList ElementFrequency RotateElementsByPosition RemoveDuplicatePreservingOrder NthElement CompareSets UnionInterSectionInSets SymmetricDifference SetToList SubsetCheck InsurancePolicyManagement ReverseQueue BinaryNumberQueue HospitalTriage StackUsingQueue CircularBuffer WordCounter InvertMap MaxValueKey MergeMaps GroupEmployee InsurencePolicyManagement2 VotingSystem ShoppingCart BankingSystem ).
 
+19/02/2025 Today's Summary 
+
+
+20/02/2025 Today's Summary 
+
+Got learnings about Exceptions in java and how to hqndle them using try catch and finally.
+Also solved questions such as : ( FileReaderChecked1 DivisionUnchecked2 AgeCheckCustom3 PrintValueMultipleCheck4 FileTryWithResourses5 InterestCalculator6 DivisionFinally7 ExceptionInMethods8 NestedTryCatch9 BankTransactionSystem ).
+
