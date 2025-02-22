@@ -119,3 +119,8 @@ Also, solved problems like : (  PipedStream FileReadWrite CopyFile2 InputFromCon
 Got learnings about Exceptions in java and how to hqndle them using try catch and finally.
 Also solved questions such as : ( FileReaderChecked1 DivisionUnchecked2 AgeCheckCustom3 PrintValueMultipleCheck4 FileTryWithResourses5 InterestCalculator6 DivisionFinally7 ExceptionInMethods8 NestedTryCatch9 BankTransactionSystem ).
 
+21/02/2025 Today's Summay -- Regex and JUnit
+
+Got learning about Software testing with the help of JUnit and Regex
+Solved Question like(In JUnit) : ( CalculatorTest StringUtilsTest StringUtils StringUtils4 StringUtils5 StringUtils6 StringUtils7 StringUtils8 BankAccount PasswordValidator TemperatureConverter DateFormatter UserRegistration )
+Ans questions like(In Regex) : ( SSNValidator RepeatingWordsFinder CurrencyExtractor ProgrammingLanguageExtractor CreditCardValidator IPAddressValidator CensorBadWords SpaceReducer LinkExtractor DateExtractor CapitalizedWordExtractor EmailExtractor4 HexColorValidator3 LicensePlateValidator2 UsernameValidator1 )
