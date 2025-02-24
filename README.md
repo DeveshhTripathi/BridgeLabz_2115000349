@@ -123,4 +123,10 @@ Also solved questions such as : ( FileReaderChecked1 DivisionUnchecked2 AgeCheck
 
 Got learning about Software testing with the help of JUnit and Regex
 Solved Question like(In JUnit) : ( CalculatorTest StringUtilsTest StringUtils StringUtils4 StringUtils5 StringUtils6 StringUtils7 StringUtils8 BankAccount PasswordValidator TemperatureConverter DateFormatter UserRegistration )
-Ans questions like(In Regex) : ( SSNValidator RepeatingWordsFinder CurrencyExtractor ProgrammingLanguageExtractor CreditCardValidator IPAddressValidator CensorBadWords SpaceReducer LinkExtractor DateExtractor CapitalizedWordExtractor EmailExtractor4 HexColorValidator3 LicensePlateValidator2 UsernameValidator1 )
+Ans questions like(In Regex) : ( SSNValidator RepeatingWordsFinder CurrencyExtractor ProgrammingLanguageExtractor CreditCardValidator IPAddressValidator CensorBadWords SpaceReducer LinkExtractor DateExtractor CapitalizedWordExtractor EmailExtractor4 HexColorValidator3 LicensePlateValidator2 UsernameValidator1 ).
+
+22/02/2025 Today's Summary 
+
+Got leaning about Annotation(default and custom) and Reflection in java.
+And solved various problems in these topics such as:  ( CacheSystemAnnotation JSONAnnotation RoleAcessControlAnnotation FieldValidationAnnotation ExecutionTimeAnnotation TodoProcessAnnotation ImportantMethodAnnotation ClassInputReflection PrivateAccessReflection PrivateInvokeReflection DynamicObjectCreationReflection DynamicMathInvocationReflection RetrieveAnnotationReflection ModifyStaticFieldReflection CustomObjectMapperReflection ObjectToJsonReflection DynamicProxyReflection SimpleDIReflection MethodExecutionTimerReflection ).
+
