@@ -130,3 +130,7 @@ Ans questions like(In Regex) : ( SSNValidator RepeatingWordsFinder CurrencyExtra
 Got leaning about Annotation(default and custom) and Reflection in java.
 And solved various problems in these topics such as:  ( CacheSystemAnnotation JSONAnnotation RoleAcessControlAnnotation FieldValidationAnnotation ExecutionTimeAnnotation TodoProcessAnnotation ImportantMethodAnnotation ClassInputReflection PrivateAccessReflection PrivateInvokeReflection DynamicObjectCreationReflection DynamicMathInvocationReflection RetrieveAnnotationReflection ModifyStaticFieldReflection CustomObjectMapperReflection ObjectToJsonReflection DynamicProxyReflection SimpleDIReflection MethodExecutionTimerReflection ).
 
+24/02/2025 Today's Summary
+
+Got learning about CSV Data Handling by using Maven and also can be dinr by using File and Buffered reader.
+Also solved some questioons on this topic such as : ( ReadCVSFile WriteCSVFile CountCSVRows FilterCSVRecords SearchEmployee UpdateCSV SortCSVBySalary ValidateCSVData CSVToStudentList MergeCSVFiles ReadLargeCSVFile DuplicateInCSV ExportDatabaseToCSV JSONToCSV EncryptDecryptCSV ).
