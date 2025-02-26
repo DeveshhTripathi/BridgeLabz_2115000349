@@ -134,3 +134,8 @@ And solved various problems in these topics such as:  ( CacheSystemAnnotation JS
 
 Got learning about CSV Data Handling by using Maven and also can be dinr by using File and Buffered reader.
 Also solved some questioons on this topic such as : ( ReadCVSFile WriteCSVFile CountCSVRows FilterCSVRecords SearchEmployee UpdateCSV SortCSVBySalary ValidateCSVData CSVToStudentList MergeCSVFiles ReadLargeCSVFile DuplicateInCSV ExportDatabaseToCSV JSONToCSV EncryptDecryptCSV ).
+
+25/02/2025 Today's Summary
+
+Got learnings about JSON Data manipulation Reading , writing , object manipulation , project creation etc.
+Solved problems like : ( JSONStudent JSONCar ReadJSON MergeJSON ValidateJSON ListToJSONArray FilteerJSON ReadJSONKeysValues  ListToJSONArray2 FilterJSONByAge SimpleEmailValidator MergeJSONFiles ConvertJsonToXml ConvertCSVtoJSON DatabaseToJsonReport IPLCensorAnalyzer ).
