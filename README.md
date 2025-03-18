@@ -139,3 +139,7 @@ Also solved some questioons on this topic such as : ( ReadCVSFile WriteCSVFile C
 
 Got learnings about JSON Data manipulation Reading , writing , object manipulation , project creation etc.
 Solved problems like : ( JSONStudent JSONCar ReadJSON MergeJSON ValidateJSON ListToJSONArray FilteerJSON ReadJSONKeysValues  ListToJSONArray2 FilterJSONByAge SimpleEmailValidator MergeJSONFiles ConvertJsonToXml ConvertCSVtoJSON DatabaseToJsonReport IPLCensorAnalyzer ).
+
+17/03/2025 Today's Summary 
+
+Got learnings about Java Script and solved different problems in it such as (PrimePalindromeCheck CheckPalindrome TemperatureConverter GamblerGame CoinFlipGame MagicNumber PowerOfTwoWhile PrimeFactors Factorial PrimeRange PrimeCheck UnitConversionCase HarmonicNumber PowerOfTwo NumberUnitCase WeekDayCase WeekDay NumberToWordCase NumberToWord ArithmeticOperations NumberUnit numberToWord coinFlip randomNumbers checkDate leapYear ).
