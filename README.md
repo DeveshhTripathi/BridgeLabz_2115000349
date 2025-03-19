@@ -143,3 +143,8 @@ Solved problems like : ( JSONStudent JSONCar ReadJSON MergeJSON ValidateJSON Lis
 17/03/2025 Today's Summary 
 
 Got learnings about Java Script and solved different problems in it such as (PrimePalindromeCheck CheckPalindrome TemperatureConverter GamblerGame CoinFlipGame MagicNumber PowerOfTwoWhile PrimeFactors Factorial PrimeRange PrimeCheck UnitConversionCase HarmonicNumber PowerOfTwo NumberUnitCase WeekDayCase WeekDay NumberToWordCase NumberToWord ArithmeticOperations NumberUnit numberToWord coinFlip randomNumbers checkDate leapYear ).
+
+18/03/2025 Today's Summary
+
+Got learnings about arrays and Maps in Java Script 
+And solved questions in both the topic .. ( Arrays : RandomNumberGenerate SecondLargest  PrimeFactorization SumThreeZero RepeatedDigits ,  Maps : DieRollMap BirthMonthGrouping ).
